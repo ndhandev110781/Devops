@@ -1,2 +1,27 @@
-This is my first line
+#!/bin/bash
+
+
+
+
+
+
+echo "Hello world from GIT"
+
+
+===================
+
+
+
+
+echo "Hello world from GITHUB"
+
+
+
+
+
+
+
+
+
+
 
